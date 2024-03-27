@@ -1,4 +1,5 @@
 # challenge-tecnico-alfano
+Este es mi challenge Tecnico para la empresa noc noc y los pasos para iniciarlo serian los que estan a continuacion primero instalar las dependencias y despues hacer correr el programa
 
 ## Project setup
 ```
@@ -10,10 +11,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+
 
 ### Lints and fixes files
 ```
